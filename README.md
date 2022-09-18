@@ -1,4 +1,4 @@
-From Brazil :brazil:
+From Brazil :brazil: :hand:
 
 ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrey0800770&show_icons=true&theme=radical)
 
